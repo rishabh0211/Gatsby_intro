@@ -1,17 +1,14 @@
 import React from "react";
-
 import Layout from '../components/layout';
 import Head from '../components/head';
 
-const IndexPage = () => {
+const ContactPage = () => {
   return (
-
     <Layout>
-      <Head title="Home"/>
-      <h1>Hello!</h1>
-      <h2>I'm Rishabh</h2>
+      <Head title="Contact"/>
+      <h1>Contact Page</h1>
     </Layout>
   )
 }
 
-export default IndexPage;
+export default ContactPage;

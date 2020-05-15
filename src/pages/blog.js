@@ -36,7 +36,6 @@ const BlogPage = () => {
       }
     }  
   `);
-  window.rrrr = data;
   return (
     <Layout>
       <Head title="Blog"/>
